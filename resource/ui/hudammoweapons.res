@@ -138,4 +138,53 @@
 		"fgcolor"		"0 0 128 255"
 		"alpha"			"50"
 	}
+	
+	// reserve ammo
+	
+	"AmmoInClip"
+	{
+		"font"			"ReserveAmmoFont"
+		"fgcolor"		"195 210 240 255"
+		"xpos"			"c-50"
+		"ypos"			"c540"
+		"wide"			"100"
+		"tall"			"40"
+		"textAlignment"	"north"	
+		"labelText"		"%AmmoInReserve%"
+		
+	}		
+	"AmmoInClipShadow"
+	{
+		"font"			"ReserveAmmoFontShadow"
+		"fgcolor"		"0 0 0 128"
+		"xpos"			"c-50"
+		"ypos"			"c541"
+		"wide"			"100"
+		"tall"			"40"
+		"textAlignment"	"north"	
+		"labelText"		"%AmmoInReserve%"
+		
+	}						
+	"AmmoInReserve"
+	{
+		"font"			"ReserveAmmoFont"
+		"fgcolor"		"255 255 255 30"
+		"xpos"			"c-50"
+		"ypos"			"c540"
+		"zpos"			"10"
+		"wide"			"100"
+		"tall"			"15"
+		"textAlignment"	"north"
+	}		
+	"AmmoInReserveShadow"
+	{
+		"font"			"ReserveAmmoFont"
+		"fgcolor"		"255 255 255 30"
+		"xpos"			"c-50"
+		"ypos"			"c540"
+		"zpos"			"10"
+		"wide"			"100"
+		"tall"			"10"
+		"textAlignment"	"north"
+	}
 }
