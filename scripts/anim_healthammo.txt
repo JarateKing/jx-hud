@@ -1,0 +1,30 @@
+event HudHealthDyingPulse
+{
+	// change contrast
+	Animate PlayerStatusHealthValueGradient1 Alpha "25" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueGradient2 Alpha "25" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueGradient3 Alpha "25" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueGradient4 Alpha "25" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueGradient5 Alpha "25" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueShadowSolid Alpha "255" Linear 0.0 0.0
+	
+	// flashing
+	Animate PlayerStatusHealthValue FgColor "245 17 41 255" Linear 0.0 0.0
+	Animate PlayerStatusHealthValue FgColor "235 67 22 255" Accel 0.0 0.2
+	Animate PlayerStatusHealthValue FgColor "245 17 41 255" Deaccel 0.25 0.5
+	
+	RunEvent HudHealthDyingPulseLoop	0.75
+}
+
+event HudHealthDyingPulseStop
+{
+	RunEvent DefaultAnimHudHealthDyingPulseStop 0.0
+	
+	Animate PlayerStatusHealthValueGradient1 Alpha "255" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueGradient2 Alpha "255" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueGradient3 Alpha "255" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueGradient4 Alpha "255" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueGradient5 Alpha "255" Linear 0.0 0.0
+	Animate PlayerStatusHealthValueShadowSolid Alpha "50" Linear 0.0 0.0
+	Animate PlayerStatusHealthValue FgColor "195 210 240 255" Linear 0.0 0.0
+}

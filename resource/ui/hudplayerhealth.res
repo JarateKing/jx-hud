@@ -136,6 +136,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"north"
 		"font"			"HealthFont"
-		"fgcolor"		"0 0 128 50"
+		"fgcolor"		"0 0 128 255"
+		"alpha"			"50"
 	}
 }
