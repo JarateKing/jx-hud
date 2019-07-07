@@ -173,7 +173,7 @@
 		"ypos"			"c540"
 		"zpos"			"10"
 		"wide"			"100"
-		"tall"			"15"
+		"tall"			"8"
 		"textAlignment"	"north"
 	}		
 	"AmmoInReserveShadow"
@@ -184,7 +184,7 @@
 		"ypos"			"c540"
 		"zpos"			"10"
 		"wide"			"100"
-		"tall"			"10"
+		"tall"			"14"
 		"textAlignment"	"north"
 	}
 }
