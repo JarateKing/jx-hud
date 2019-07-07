@@ -15,7 +15,7 @@ Scheme
 		{
 			"1"
 			{
-				"name" "CallingCode"
+				"name" "jahud_num-10"
 				"tall" "32"
 				"antialias" "1"
 			}
@@ -24,7 +24,7 @@ Scheme
 		{
 			"1"
 			{
-				"name" "CallingCode"
+				"name" "jahud_num-10"
 				"tall" "32"
 				"antialias" "1"
 				"blur" "2"
@@ -47,6 +47,11 @@ Scheme
 		{
 			"font" "resource/fonts/CallingCode-Regular.otf"
 			"name" "Calling Code"
+		}
+		"11"
+		{
+			"font" "resource/fonts/jahud_num-10.otf"
+			"name" "jahud_num-10"
 		}
 	}
 }
