@@ -76,6 +76,8 @@ event HudLowAmmoPulse
 	Animate PlayerStatusAmmoValueGradient5 Alpha "25" Linear 0.0 0.0
 	Animate PlayerStatusAmmoValueShadowSolid Alpha "255" Linear 0.0 0.0
 	
+	Animate AmmoInClip FgColor "240 100 20 255" Linear 0.0 0.0
+	
 	// flashing
 	Animate PlayerStatusAmmoValue FgColor "245 17 41 255" Linear 0.0 0.0
 	Animate PlayerStatusAmmoValue FgColor "235 67 22 255" Accel 0.0 0.2
@@ -95,4 +97,6 @@ event HudLowAmmoPulseStop
 	Animate PlayerStatusAmmoValueGradient5 Alpha "255" Linear 0.0 0.0
 	Animate PlayerStatusAmmoValueShadowSolid Alpha "50" Linear 0.0 0.0
 	Animate PlayerStatusAmmoValue FgColor "195 210 240 255" Linear 0.0 0.0
+	
+	Animate AmmoInClip FgColor "160 95 250 255" Linear 0.0 0.0
 }
