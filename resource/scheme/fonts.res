@@ -30,6 +30,25 @@ Scheme
 				"blur" "2"
 			}
 		}
+		"ReserveAmmoFont"
+		{
+			"1"
+			{
+				"name" "jahud_num-10"
+				"tall" "18"
+				"antialias" "1"
+			}
+		}
+		"ReserveAmmoFontShadow"
+		{
+			"1"
+			{
+				"name" "jahud_num-10"
+				"tall" "18"
+				"antialias" "1"
+				"blur" "1"
+			}
+		}
 	}
 	CustomFontFiles
 	{
