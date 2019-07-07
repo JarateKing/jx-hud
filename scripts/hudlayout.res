@@ -7,5 +7,12 @@
 
 "Resource/HudLayout.res"
 {
+	HudWeaponAmmo
+	{
+		"xpos"			"0"
+		"ypos"			"-480"
+		"wide"			"f0"
+		"tall"			"960"
+	}
 }
 
