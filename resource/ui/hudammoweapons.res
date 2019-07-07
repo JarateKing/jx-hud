@@ -144,7 +144,7 @@
 	"AmmoInClip"
 	{
 		"font"			"ReserveAmmoFont"
-		"fgcolor"		"195 210 240 255"
+		"fgcolor"		"160 95 250 255"
 		"xpos"			"c-50"
 		"ypos"			"c540"
 		"wide"			"100"
@@ -168,7 +168,7 @@
 	"AmmoInReserve"
 	{
 		"font"			"ReserveAmmoFont"
-		"fgcolor"		"255 255 255 30"
+		"fgcolor"		"255 255 255 8"
 		"xpos"			"c-50"
 		"ypos"			"c540"
 		"zpos"			"10"
@@ -179,7 +179,7 @@
 	"AmmoInReserveShadow"
 	{
 		"font"			"ReserveAmmoFont"
-		"fgcolor"		"255 255 255 30"
+		"fgcolor"		"255 255 255 8"
 		"xpos"			"c-50"
 		"ypos"			"c540"
 		"zpos"			"10"
