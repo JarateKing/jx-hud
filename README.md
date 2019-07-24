@@ -7,5 +7,5 @@ Entry for [sandblast's hud creation competition #2](https://www.teamfortress.tv/
 ## Install
 
 1. Download zip
-2. Extract the jx-hud-master folder to tf/custom/
+2. Extract the `jx-hud-master` folder to `tf/custom/`
 3. Play tf2
