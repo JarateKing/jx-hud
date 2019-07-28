@@ -2,6 +2,9 @@
 
 "Resource/UI/HudAmmoWeapons.res"
 {
+	// ammo in clip label
+	// "AmmoInClip" is used in reserve, so we make our own de-facto in clip ammo
+
 	"PlayerStatusAmmoValue"
 	{
 		"ControlName"	"CExLabel"
@@ -140,6 +143,7 @@
 	}
 	
 	// reserve ammo
+	// uses all 4 labels so it can make a simple gradient
 	
 	"AmmoInClip"
 	{
