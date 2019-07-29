@@ -6,9 +6,9 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r640"
-		"ypos"	 "18"
-		"wide"	 "628"
-		"tall"	 "468"
+		"ypos"	 "5"
+		"wide"	 "635"
+		"tall"	 "475"
 
 		"MaxDeathNotices" "8"
 		"IconScale"	  	  "0.25"
