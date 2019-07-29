@@ -26,8 +26,8 @@
 		"IconColor"		"HudWhite"
 		"LocalPlayerColor"	"HUDBlack"
 
-		"BaseBackgroundColor"	"46 43 42 220"
-		"LocalBackgroundColor"	"245 229 196 200"
+		"BaseBackgroundColor"	"24 28 58 70"
+		"LocalBackgroundColor"	"24 28 58 220"
 		"KillStreakBackgroundColor" "46 43 42 255"
 	}
 }
