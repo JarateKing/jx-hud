@@ -23,8 +23,8 @@
 		"TeamRed"		"HUDRedTeamSolid"
 		"PurpleText"	"134 80 172 255" //monoculus
 		"GreenText"		"112 176 74 255" //mersasmus
-		"IconColor"		"HudWhite"
-		"LocalPlayerColor"	"HUDBlack"
+		"IconColor"		"255 255 255 255"
+		"LocalPlayerColor"	"255 255 255 255"
 
 		"BaseBackgroundColor"	"24 28 58 70"
 		"LocalBackgroundColor"	"24 28 58 220"
