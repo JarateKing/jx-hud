@@ -17,5 +17,1363 @@
 	
 	TextureData
 	{
+		"skull_tf"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"obj_sentrygun"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"obj_sentrygun2"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"obj_sentrygun3"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"bat"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"pistol"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"pistol_scout"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"nailgun"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"sniperrifle"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"smg"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"club"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"shovel"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"tf_projectile_rocket"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"shotgun_primary"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"shotgun_soldier"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"shotgun_hwg"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"shotgun_pyro"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"tf_projectile_pipe"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"bottle"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"syringegun_medic"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"minigun"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"pipe"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}		
+		"flamethrower"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"fists"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"fireaxe"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"bonesaw"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"knife"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"revolver"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"flaregun"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"wrench"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"scattergun"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}		
+		"tf_projectile_pipe_remote"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}		
+		"vehicle"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"skull"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"headshot"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"backstab"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"ubersaw"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"axtinguisher"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"taunt_pyro"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"bluedefend"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"bluecapture"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"reddefend"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"redcapture"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"obj_attachment_sapper"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"deflect_promode"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"deflect_sticky"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"deflect_rocket"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"deflect_flare"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"bat_wood"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"ball"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"taunt_heavy"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"taunt_scout"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"gloves"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"crit"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"ambassador"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"huntsman"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"huntsman_burning"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"huntsman_flyingburn"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"taunt_spy"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"huntsman_headshot"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"ambassador_headshot"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"taunt_sniper"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"saw_kill"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"deflect_arrow"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"firedeath"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"pumpkindeath"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"taunt_soldier"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"taunt_demoman"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"sword"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"demoshield"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"pickaxe"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"rocketlauncher_directhit"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"sticky_resistance"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"player_sentry"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"battleaxe"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"tribalkukri"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"sledgehammer"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"paintrain"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"deflect_huntsman_headshot"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"huntsman_flyingburn_headshot"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"taunt_medic"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"samrevolver"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"natascha"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"maxgun"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"force_a_nature"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"deflect_huntsman_flyingburn_headshot"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"deflect_huntsman_flyingburn"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"deflect_ball"
+		{
+			"dfile"	"HUD/d_images"
+			"dnegfile"	"HUD/dneg_images"
+		}
+		"building_carried_destroyed"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"taunt_guitar_kill"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"frontier_kill"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"wrench_golden"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"southern_comfort_kill"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"bleed_kill"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"wrangler_kill"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"robot_arm_kill"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"robot_arm_combo_kill"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"robot_arm_blender_kill"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"degreaser"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"powerjack"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"eternal_reward"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"letranger"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"shortstop"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"holymackerel"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"headtaker"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"fryingpan"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"back_scratcher"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"boston_basher"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}		
+		"claidheamohmor"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"steel_fists"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}			
+		"ullapool_caber_explosion"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}		
+		"ullapool_caber"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}		
+		"candy_cane"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}		
+		"amputator"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"blackbox"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"wrench_jag"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"warrior_spirit"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"loch_n_load"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"iron_curtain"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"crusaders_crossbow"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}		
+		"battleneedle"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"sydney_sleeper"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"cow_mangler"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"righteous_bison"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"bushwacka"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"taunt_soldier_lumbricus"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}			
+		"brass_beast"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}			
+		"gloves_running_urgently"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}			
+		"blutsauger"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}			
+		"sandman"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"backburner"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}		
+		"lava_bat"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}	
+		"lava_axe"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}		
+		"obj_minisentry"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"kunai"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"warfan"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"demokatana"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"scout_sword"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"the_maul"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"saxxy"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"market_gardener"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"the_winger"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"tomislav"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"soda_popper"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"atomizer"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"bazaar_bargain"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"big_earner"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"detonator"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"eviction_notice"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"family_business"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"liberty_launcher"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"proto_syringe"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"persian_persuader"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"reserve_shooter"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"shahanshah"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"enforcer"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"disciplinary_action"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"splendid_screen"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"mantreads"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"solemn_vow"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"nessieclub"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"mailbox"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"quake_rl"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"diamondback"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"widowmaker"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		
+		"short_circuit"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"machina"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"player_penetration"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"headshot_player_penetration"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
+		"nonnonviolent_protest"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"scotland_shard"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"baleful_beacon"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"unarmed_combat"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"voodoo_pin"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"eyeball_rocket"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"purgatory"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"apocofists"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"sharp_dresser"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"sharp_dresser_backstab"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}			
+		"phlogistinator"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"manmelter"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"thirddegree"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"eureka_effect"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"pomson"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"holiday_punch"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spy_cicle"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"wrap_assassin"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"black_rose"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"lollichop"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"scorch_shot"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"rainblower"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"pro_smg"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"pep_pistol"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"armageddon"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"pro_rifle"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"pep_brawlerblaster"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"dumpster_device"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"long_heatmaker"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"annihilator"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"guillotine"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"recorder"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"loose_cannon_impact"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"freedom_staff"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"merasmus_decap"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"merasmus_zap"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"merasmus_grenade"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"merasmus_player_bomb"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"loose_cannon_explosion"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}		
+		"rescue_ranger"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"memory_maker"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}		
+		"loose_cannon_reflect"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}		
+		"rescue_ranger_reflect"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"ham_shank"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"psapper"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_teleport"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_skeleton"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_mirv"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_meteor"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_lightning"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_fireball"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_boss"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_blastjump"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_bats"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"spellbook_athletic"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"golden_fryingpan"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"australium"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"the_classic"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"tide_turner"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"bread_bite"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"snack_attack"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"back_scatter"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"airstrike"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"ai_flamethrower"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"necro_smasher"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"bumper_kart"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"crossing_guard"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"iron_bomber"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"quickiebomb_launcher"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"panic_attack"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_agility"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_vamp"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_resist"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_haste"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_fist"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_reflect"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_precision"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_strength"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_regen"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_king"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_plague"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"mannpower_supernova"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"passtime_intercept"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"passtime_steal"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"passtime_pass"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"passtime_score_blue"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"passtime_score_red"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"batsaber"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"the_capper"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+ 		"shooting_star"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+ 		"giger_counter"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+ 		"prinny_machete"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"crocodile"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"dragons_fury"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"dragons_fury_bonus"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"hot_hand"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"gas_blast"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+		}
+		"rocketpack_stomp"
+		{
+			"dfile"	"HUD/d_images_v2"
+			"dnegfile"	"HUD/dneg_images_v2"
+		}
 	}
 }
