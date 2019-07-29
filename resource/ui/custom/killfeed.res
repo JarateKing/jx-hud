@@ -28,6 +28,6 @@
 
 		"BaseBackgroundColor"	"24 28 58 70"
 		"LocalBackgroundColor"	"24 28 58 220"
-		"KillStreakBackgroundColor" "46 43 42 255"
+		"KillStreakBackgroundColor" "24 28 58 255"
 	}
 }
