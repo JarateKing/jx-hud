@@ -49,6 +49,15 @@ Scheme
 				"blur" "1"
 			}
 		}
+		"KillfeedFont"
+		{
+			"1"
+			{
+				"name" "Raleway Medium"
+				"tall" "11"
+				"antialias" "1"
+			}
+		}
 	}
 	CustomFontFiles
 	{

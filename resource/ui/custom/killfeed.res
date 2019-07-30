@@ -17,7 +17,7 @@
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Default"
+		"TextFont"		"KillfeedFont"
 		
 		"TeamBlue"		"64 35 255 255"
 		"TeamRed"		"255 35 64 255"
