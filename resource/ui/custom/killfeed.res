@@ -19,8 +19,8 @@
 		
 		"TextFont"		"Default"
 		
-		"TeamBlue"		"HUDBlueTeamSolid"
-		"TeamRed"		"HUDRedTeamSolid"
+		"TeamBlue"		"64 35 247 255"
+		"TeamRed"		"247 35 64 255"
 		"PurpleText"	"134 80 172 255" //monoculus
 		"GreenText"		"112 176 74 255" //mersasmus
 		"IconColor"		"255 255 255 255"
