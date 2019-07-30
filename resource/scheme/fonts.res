@@ -72,5 +72,10 @@ Scheme
 			"font" "resource/fonts/jahud_num-10.otf"
 			"name" "jahud_num-10"
 		}
+		"12"
+		{
+			"font" "resource/fonts/Raleway-Medium.ttf"
+			"name" "Raleway Medium"
+		}
 	}
 }
