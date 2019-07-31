@@ -19,7 +19,7 @@
 		
 		"TextFont"		"KillfeedFont"
 		
-		"TeamBlue"		"64 35 255 255"
+		"TeamBlue"		"25 140 255 255"
 		"TeamRed"		"255 35 64 255"
 		"PurpleText"	"134 80 172 255" //monoculus
 		"GreenText"		"112 176 74 255" //mersasmus
