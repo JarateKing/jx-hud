@@ -11,5 +11,7 @@
 		"delta_lifetime"		"2.0"
 		"delta_item_font"		"DamageNumber"
 		"delta_item_font_big"	"DamageNumberCrit"
+		
+		"alpha"		"185"
 	}
 }
