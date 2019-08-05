@@ -69,6 +69,16 @@ Scheme
 				"dropshadow" "1"
 			}
 		}
+		"DamageNumberCrit"
+		{
+			"1"
+			{
+				"name" "jahud_dashless+5"
+				"tall" "24"
+				"antialias" "1"
+				"dropshadow" "1"
+			}
+		}
 		"DamageNumberHud"
 		{
 			"1"
