@@ -58,6 +58,36 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"DamageNumber"
+		{
+			"1"
+			{
+				"name" "jahud_dashless+5"
+				"tall" "18"
+				"antialias" "1"
+				"additive" "1"
+				"dropshadow" "1"
+			}
+		}
+		"DamageNumberHud"
+		{
+			"1"
+			{
+				"name" "jahud_dashless+5"
+				"tall" "18"
+				"antialias" "1"
+			}
+		}
+		"DamageNumberHudShadow"
+		{
+			"1"
+			{
+				"name" "jahud_dashless+5"
+				"tall" "18"
+				"antialias" "1"
+				"blur" "1"
+			}
+		}
 	}
 	CustomFontFiles
 	{
@@ -85,6 +115,11 @@ Scheme
 		{
 			"font" "resource/fonts/Raleway-Medium.ttf"
 			"name" "Raleway Medium"
+		}
+		"13"
+		{
+			"font" "resource/fonts/jahud_dashless+5.otf"
+			"name" "jahud_dashless+5"
 		}
 	}
 }
