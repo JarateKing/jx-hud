@@ -83,7 +83,7 @@ Scheme
 		{
 			"1"
 			{
-				"name" "jahud_dashless+5"
+				"name" "jahud_dashless-10"
 				"tall" "18"
 				"antialias" "1"
 			}
@@ -92,7 +92,7 @@ Scheme
 		{
 			"1"
 			{
-				"name" "jahud_dashless+5"
+				"name" "jahud_dashless-10"
 				"tall" "18"
 				"antialias" "1"
 				"blur" "1"
@@ -130,6 +130,11 @@ Scheme
 		{
 			"font" "resource/fonts/jahud_dashless+5.otf"
 			"name" "jahud_dashless+5"
+		}
+		"14"
+		{
+			"font" "resource/fonts/jahud_dashless-10.otf"
+			"name" "jahud_dashless-10"
 		}
 	}
 }
