@@ -28,7 +28,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"		"center"
-		"fgcolor"		"250 210 60 255"
+		"fgcolor"		"250 220 40 255"
 		"font"			"DamageNumberHud"
 	}
 	"DamageAccountLabel2"
