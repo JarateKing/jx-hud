@@ -113,28 +113,28 @@ Scheme
 		}
 		"10"
 		{
-			"font" "resource/fonts/CallingCode-Regular.otf"
-			"name" "Calling Code"
+			"font" "resource/fonts/jahud_dashless+5.otf"
+			"name" "jahud_dashless+5"
 		}
 		"11"
+		{
+			"font" "resource/fonts/jahud_dashless-10.otf"
+			"name" "jahud_dashless-10"
+		}
+		"12"
 		{
 			"font" "resource/fonts/jahud_num-10.otf"
 			"name" "jahud_num-10"
 		}
-		"12"
-		{
-			"font" "resource/fonts/Raleway-Medium.ttf"
-			"name" "Raleway Medium"
-		}
 		"13"
 		{
-			"font" "resource/fonts/jahud_dashless+5.otf"
-			"name" "jahud_dashless+5"
+			"font" "resource/fonts/CallingCode-Regular.otf"
+			"name" "Calling Code"
 		}
 		"14"
 		{
-			"font" "resource/fonts/jahud_dashless-10.otf"
-			"name" "jahud_dashless-10"
+			"font" "resource/fonts/Raleway-Medium.ttf"
+			"name" "Raleway Medium"
 		}
 	}
 }
