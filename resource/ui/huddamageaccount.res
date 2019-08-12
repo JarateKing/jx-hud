@@ -31,4 +31,20 @@
 		"fgcolor"		"250 210 60 255"
 		"font"			"DamageNumberHud"
 	}
+	"DamageAccountLabel2"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"DamageAccountLabel2"
+		"xpos"			"c-50"
+		"ypos"			"c30"
+		"zpos"			"100"
+		"wide"			"100"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%metal%"
+		"textAlignment"		"center"
+		"fgcolor"		"255 255 0 255"
+		"font"			"DamageNumberHud"
+	}
 }
