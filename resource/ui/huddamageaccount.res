@@ -14,4 +14,21 @@
 		
 		"alpha"		"185"
 	}
+	
+	"DamageAccountLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"DamageAccountLabel"
+		"xpos"			"c-50"
+		"ypos"			"c30"
+		"zpos"			"100"
+		"wide"			"100"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%metal%"
+		"textAlignment"		"center"
+		"fgcolor"		"250 210 60 255"
+		"font"			"DamageNumberHud"
+	}
 }
